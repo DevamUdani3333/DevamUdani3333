@@ -1,5 +1,5 @@
 ### Hi there 👋
--->
+
 <h1 align="center">Hi 👋, I'm Devam Udani</h1>
 <h3 align="center">A DevOps Learner</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/aNnbLCwHCShp1C-tSkks3lLcOOWO8XFh4xXhUQs4P9c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzI0MDEx/NDEvc2NyZWVuc2hv/dHMvNTQ4Nzk4Mi9t/ZWRpYS8wZWQyOGI3/MzRhNDJkMDZhOTZj/YzU3ZjVkNDc4NjI1/Yy5naWY_cmVzaXpl/PTQwMHgw.jpeg">
